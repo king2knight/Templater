@@ -1,0 +1,27 @@
+!The following variables will be replaced in the template below. They must appear exactly as shown here.
+
+$Router_Hostname
+$Loopback_1st_3_Octet
+$Loopback_Last_Octet
+$FlexVPN_Last_Octet
+$Private_IP_Address
+$Private_IP_Address_Mask
+$Serial_Description
+$MPLS_Serial_IP_Address
+$MPLS_Neighbor_IP_Address
+$Default_Gateway
+$Router_Hostname1
+$Loopback_1st_3_Octet1
+$Loopback_Last_Octet1
+$FlexVPN_Last_Octet1
+$Private_IP_Address1
+$Private_IP_Address_Mask1
+$Serial_Description1
+$MPLS_Serial_IP_Address1
+$MPLS_Neighbor_IP_Address1
+$Default_Gateway31
+$Default_Gateway3
+$Default_Gateway2
+$Default_Gateway1
+$Default_Gateway
+!End of Variables
